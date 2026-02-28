@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0d041fb-1bf7-48cf-ba10-4765fbf04200" name="Default Changelist" comment="" />
+    <list default="true" id="e0d041fb-1bf7-48cf-ba10-4765fbf04200" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/models/cars_pipe_202602281308.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/models/cars_pipe_202602281500.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/models/cars_pipe_202602281525.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/models/cars_pipe_202602281543.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/models/cars_pipe_202602281927.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/predictions/202602281927.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test/7310993818.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test/7313922964.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test/7315173150.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test/7316152972.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test/7316509996.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train/homework.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/dag_processor/2026-02-28/dags-folder/hw_dag.py.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/dag_processor/2026-02-28/dags-folder/hw_dag.py.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +36,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mrandreykaigorodov&quot;
+  }
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -28,6 +50,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mrandreykaigorodov/airflow_hw.git&quot;,
+    &quot;accountId&quot;: &quot;99e390ae-1d4a-4931-9369-07226d3119b9&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -47,6 +75,8 @@
     &quot;Python.predict.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
